@@ -8,6 +8,9 @@ This is easy project just to get familiar with Object Orientet Programming basic
 This is easy project just to get familiar with basic syntax of Python and write a simple program using variables, conditions, loops, and functions.
 
 
+
+
+
 If you want to learn how to make this please visit hyperskill.org that's where i found it.
 
 Cheers!
